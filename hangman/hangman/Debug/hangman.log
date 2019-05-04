@@ -1,0 +1,6 @@
+﻿  hangman.cpp
+d:\my games\hangman\hangman\hangman.cpp(63): warning C4996: 'strupr': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strupr. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(589): note: see declaration of 'strupr'
+d:\my games\hangman\hangman\hangman.cpp(68): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\conio.h(452): note: see declaration of 'getch'
+  hangman.vcxproj -> D:\My Games\hangman\hangman\Debug\hangman.exe
